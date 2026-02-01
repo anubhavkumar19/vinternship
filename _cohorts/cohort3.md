@@ -23,6 +23,7 @@ Please do join our [Telegram Channel](https://t.me/+v9zXmiosB30wMjNl){:target="_
 ### Important Notes:
 - Stand-ups schedule to be announced here and on telegram channel.
 - Stay tuned for further updates.
+- You are required to complete at least 3.33% of ViBe every day. Failure to meet this requirement may result in discontinuation from the current cohort.
 
 ## Forms and links
 - [Telegram Channel](https://t.me/+v9zXmiosB30wMjNl){:target="_blank"}
