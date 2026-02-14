@@ -33,6 +33,8 @@ links:
       url: "https://docs.google.com/forms/d/e/1FAIpQLSctefkw36-SuJZ6iQb8nBzwJJ9G4ommbfO_-gEgAJ1yfl4mgA/viewform"
     - label: "ViBe QC - NPTEL Vinternship (Dijkstrians)"
       url: "https://forms.gle/V1b9HGTL4HMojD6XA"
+    - label: "HP Addition/Deduction Form for Dijkstrians(for VLED team only)"
+      url: "https://forms.gle/sre9DRxgrTX6DMDz9"
     - label: "Vinternship T&C and Declaration Form (for Kruskalians)"
       url: "https://forms.zohopublic.in/annamai1/form/DeclarationFormCohort3/formperma/iZnntPYMLLi7yUylY0VwzxH418pQc6s5N1dr9BwxDrk"
     - label: "ViBe QC - Vinternship (Kruskalians)"
@@ -45,6 +47,8 @@ links:
       url: "https://forms.gle/SPS8s4bhXt6Nu8ddA"
     - label: "Activity Completion Confirmation Form (for RSAians)"
       url: "https://forms.gle/5F1LyWveNb2RwH1H7"
+    - label: "HP Addition/Deduction Form for RSAians(for VLED team only)"
+      url: "https://forms.gle/FgW2j8MGQ3bhDbTe6"
 ---
 
 [← Back]({{ site.baseurl }}/)
