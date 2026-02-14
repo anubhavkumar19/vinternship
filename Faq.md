@@ -697,28 +697,37 @@ The Dashboard is under update and this might cause some glitch in dashboard view
 **Registration & Application**
 
 Q1. Where can I find the application form?
+
 You should use the official link shared in the announcement post or pinned message. If you cannot find it, request it from admins.
+
 Discord link: https://discord.com/invite/BrdzTSmMxN
+
 Youtube tutorial: https://youtu.be/vQ_bBwV9rZk?si=kvsNqnxoQEKxaV-M
 
 Q2. My application status is pending. How long does approval take?
+
 Approval time varies depending on admin verification. Wait for confirmation; avoid resubmitting multiple times.
 
 Q3. I filled the form with the wrong account and reapplied. Will it be accepted?
+
 Yes, usually the latest valid submission is considered. Duplicate or incorrect entries may be ignored. Display name should be the registered name and a professional profile picture.
 
 Q4. I registered with a personal email instead of institute email. Is that okay?
+
 No. Student email IDs generally work unless explicitly stated otherwise.
 
 **🔹 Discord Access**
 
 Q5. Is it mandatory to log in using a college email ID?
+
 No. You can usually join using any valid email unless instructions specify otherwise.
 
 Q6. Where is the Discord link?
+
 It is shared in official posts or announcements. If missing, request it from moderators. 
 
 Q7. I joined Discord. What should I do next?
+
 Complete onboarding steps:
 
 Read rules
@@ -730,25 +739,31 @@ Select cohort/role
 Introduce yourself (if required)
 
 Q8. Do I need a profile picture and real name?
+
 Yes. Many communities require professional display names and profile photos for verification.
 
 **🔹 Cohorts & Selection**
 
 Q9. Which cohort should I select?
+
 Choose the cohort mentioned in your invitation or instructions. If multiple exist (e.g., IIT Madras, RSAins), select the correct assigned one.
 
 Q10. I selected a cohort. What now?
+
 Proceed with onboarding tasks and wait for instructions inside that cohort’s channel.
 
 Q11. Where can I join a specific cohort?
+
 Inside Discord → Roles/Channels section → Select cohort role.
 
 **🔹 Internship Details**
 
 Q12. Is this a bootcamp or internship?
+
 It may function as a structured program combining training + internship elements. Check official description for classification.
 
 Q13. What are the prerequisites?
+
 Prerequisites vary by program but typically include:
 
 Basic technical knowledge
@@ -758,38 +773,45 @@ Active participation
 Completion of onboarding steps
 
 Q14. What are eligibility criteria?
+
 Eligibility depends on the cohort/program announcement. Confirm from official guidelines.
 
 **🔹 Process & Tracking**
 
 Q15. How is progress tracked?
+
 Progress is typically tracked through platform activity, task completion, quizzes, or submissions.
 
 Q16. Do we need to sign up on Vibe before slot booking?
+
 It is required but not right now. Further announcements will be shared on this.
 
 **🔹 Technical / Access Issues**
 
 Q17. I joined Discord but didn’t get onboarding questions.
+
 Try:
 
-Try Refreshing
+  Try Refreshing
 
-Rechecking onboarding channel
+  Rechecking onboarding channel
 
-Logging out/in
+  Logging out/in
 
-Contacting admin
+  Contacting admin
 
 **🔹 Communication Channels**
 
-Q18. Why wasn’t the Discord link shared directly in the post?
+Q18. Why wasn’t the Discord link shared directly in the post?  
+
 Sometimes organizers route users through WhatsApp/Telegram first for filtering or instructions.
 
 **🔹 Miscellaneous**
 
 Q19. Are different emails/program mails related or the same program?
+
 Not always. Programs with similar names may be separate initiatives. Confirm via official sources.
 
 Q20. Are there benefits like internship opportunities under mentors?
+
 Benefits depend on performance, participation, and program structure. Official announcements clarify this.
