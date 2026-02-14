@@ -18,8 +18,8 @@ permalink: /protocols_and_policies/
 
 The Vinternship programme follows a structured support and grievance redressal mechanism. If you have a query, please follow the steps below in order:
 
-### 1. Telegram Broadcast
-Start by checking the official **Telegram Broadcast Channel** for the latest announcements, instructions, and program updates. This channel serves as the primary communication hub where important information about deadlines, schedule changes, submission guidelines, and common clarifications are posted regularly. Often, the answer to your query has already been addressed in a recent announcement, saving you time and effort.
+### 1. Discord Announcements
+Start by checking the official **Discord Announcement Channel** for the latest announcements, instructions, and program updates. This channel serves as the primary communication hub where important information about deadlines, schedule changes, submission guidelines, and common clarifications are posted regularly. Often, the answer to your query has already been addressed in a recent announcement, saving you time and effort.
 
 ### 2. Ask Vi-Sakha
 Utilize [Vi-Sakha](https://sakha.vicharanashala.ai/){:target="_blank"}, our intelligent AI assistant, for immediate support. Vi-Sakha is trained on the Vinternship program documentation and can provide instant answers to questions about course content, technical concepts, project requirements, platform navigation, and general program policies. This 24/7 available resource offers quick clarifications without waiting for human support.

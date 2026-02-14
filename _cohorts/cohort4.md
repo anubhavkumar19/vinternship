@@ -3,9 +3,9 @@ layout: cohort-page
 title: "RSAians"
 cohort_id: cohort4
 display_name: "RSAians"
-start_date: "To be announced"
+start_date: "14th Feb 2026"
 end_date: ""
-status: "Upcoming"
+status: "Active" #"Upcoming"
 dashboard_available: false
 color: "4F46E5"
 schedule:

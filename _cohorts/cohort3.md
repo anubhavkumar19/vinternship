@@ -11,7 +11,7 @@ color: "FBC02D"
 schedule:
   standups:
     days: ["To be announced"]
-    time: "Telegram and here"
+    time: "Discord and here"
 ---
 
 ## 📋 General Information

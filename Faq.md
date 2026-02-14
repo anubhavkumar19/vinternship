@@ -109,7 +109,7 @@ Yes, your project mentors can schedule a meeting based on the doubts and issues 
 ## 4. Support and Resolution Protocol
 
 **4.1 Where do I raise my concern initially?**  
-Initially, try to get your query resolved from the FAQ and ViSakha. Check the Broadcast Telegram channel, else from your fellow interns in the Breakout sessions. If the query is still not resolved, you can email your query to the email ID below.
+Initially, try to get your query resolved from the FAQ and ViSakha. Check the Announcement Discord channel, else from your fellow interns in the Breakout sessions. If the query is still not resolved, you can email your query to the email ID below.
 
 ViSakha: https://sakha.vicharanashala.ai/
 
@@ -674,7 +674,7 @@ All activity deadlines are available directly on the dashboard:
 Breakout rooms are usually opened after standups (around 9:45 PM) and are generally accessible to two cohorts, unless communicated otherwise.
 
 **11.4 How will I know when the breakout rooms are active? Are they compulsory?**
-Announcements will be made in the Telegram channel when breakout rooms go live. Participation is completely optional.
+Announcements will be made in the Discord channel when breakout rooms go live. Participation is completely optional.
 
 **11.5 What is the purpose of the breakout rooms?**
 They are intended for informal discussions, doubt clarification, collaboration, and peer support amongst participants.
