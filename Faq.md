@@ -54,10 +54,12 @@ We kindly request students not to worry about the certificate design and instead
 The program will be conducted strictly in **online mode**.
 
 **2.2 Is attendance tracked in this internship?**  
-Attendance is NOT compulsory for all the standups and live sessions. Please check your announcement channel in discord or whatsapp for days and timing of standup for your cohort. However, attendance is tracked for all the live session activities for other purposes. If the camera is not switched on for a sustained duration, the session may **not be considered as full attendance**.
+Attendance is NOT compulsory for all the standups and live sessions. Please check your announcement channel in discord or whatsapp for days and timing of standup and live sessions for your cohort. However, attendance is tracked for all the live session activities for other purposes. If the camera is not switched on for a sustained duration, the session may **not be considered as full attendance**.
 
 **2.3 Do I need to use a specific name or email for the internship?**  
-Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Zoom etc.) for automated tracking of your progress.
+Yes. You must use the **same registered name and email ID** used during registration across all platforms (ViBe, GitHub, Zoom etc.) for automated tracking of your progress.
+
+However for Discord, you can use your personal mail provided that you use your name and a DP(formal photo).
 
 <!--**2.4 Can I use my college or non-Gmail email ID for registration?** 
 No. This is VERY IMPORTANT. 
