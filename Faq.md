@@ -227,7 +227,7 @@ Send the email to all concerned parties (POC, HOD, and DLED) and retain a copy f
 ## 7. ViBe Platform
 
 **7.1 How do I log in to ViBe?**  
-To log in to the ViBe platform, follow the steps below carefully:
+-> To log in to the ViBe platform, follow the steps below carefully:
 
 1. Open the ViBe invite link shared with you via email.
 
@@ -238,6 +238,10 @@ To log in to the ViBe platform, follow the steps below carefully:
 4. Ensure you sign in using the same email ID (college email / registered email) that received the invite.
 
 5. Once authenticated, you will be redirected to your ViBe Dashboard, where your enrolled course will be visible.
+
+-> If you've registered to the course, please wait for the request to be accepted by the instructors.
+
+-> Join via the registration links shared in the respective discord announcement channel.
 
 ⚠️ Logging in with a different email ID may result in access issues or missing course visibility.
 
