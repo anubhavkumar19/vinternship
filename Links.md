@@ -43,6 +43,8 @@ links:
       url: "https://docs.google.com/spreadsheets/d/1FyQL7NSHeyeKBp01P4LNW95uyQ3wtWa-vidyPzCtpO0/edit?usp=sharing"
     - label: "Vinternship T&C and Declaration Form (for Kruskalians)"
       url: "https://forms.zohopublic.in/annamai1/form/DeclarationFormCohort3/formperma/iZnntPYMLLi7yUylY0VwzxH418pQc6s5N1dr9BwxDrk"
+    - label: "Activity Completion Confirmation Form(for Kruskalians)"
+      url: "https://forms.gle/q4sR3pUv7yG8oENs5"
     - label: "ViBe QC - Vinternship (Kruskalians)"
       url: "https://forms.gle/d8bWDKW294UQafmF8"
     - label: "Case Study Submission Form (for Kruskalians)"
