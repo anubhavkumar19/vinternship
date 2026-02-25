@@ -46,6 +46,12 @@ At this time, the certificate template will not be shared prior to the start of 
 
 We kindly request students not to worry about the certificate design and instead focus on making the most of the learning experience. We truly appreciate your understanding as we strive to deliver a high-quality program for everyone.
 
+**1.7 What is the Website link of Vinternship?** 
+
+Website link: https://sudarshansudarshan.github.io/vinternship/
+
+This website has the whole idea on what the internship is about, the milestones, FAQ and the dashboard in the Cohort specific pages.
+
 ---
 
 ## 2. Mode of Internship & Attendance
